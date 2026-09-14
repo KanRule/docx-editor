@@ -238,7 +238,7 @@
     },
     "packages/agents": {
       "name": "@eigenpal/docx-editor-agents",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "dependencies": {
         "docxtemplater": "^3.50.0",
         "jszip": "^3.10.1",
@@ -269,7 +269,7 @@
     },
     "packages/core": {
       "name": "@eigenpal/docx-editor-core",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "bin": {
         "docx-editor-mcp": "./dist/mcp-cli.mjs",
       },
@@ -306,7 +306,7 @@
     },
     "packages/i18n": {
       "name": "@eigenpal/docx-editor-i18n",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "devDependencies": {
         "tsup": "^8.0.1",
         "typescript": "^5.3.3",
@@ -314,7 +314,7 @@
     },
     "packages/nuxt": {
       "name": "@eigenpal/nuxt-docx-editor",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "dependencies": {
         "@eigenpal/docx-editor-vue": "^1.0.3",
         "@nuxt/kit": "^3.14.0 || ^4.0.0",
@@ -340,7 +340,7 @@
     },
     "packages/react": {
       "name": "@eigenpal/docx-editor-react",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "dependencies": {
         "@eigenpal/docx-editor-agents": "^1.5.0",
         "@eigenpal/docx-editor-core": "^1.5.0",
@@ -380,7 +380,7 @@
     },
     "packages/vue": {
       "name": "@eigenpal/docx-editor-vue",
-      "version": "1.8.3",
+      "version": "1.9.0",
       "dependencies": {
         "@eigenpal/docx-editor-agents": "^1.3.1",
         "@eigenpal/docx-editor-core": "^1.3.1",
